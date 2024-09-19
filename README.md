@@ -1,6 +1,5 @@
-
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Simple+Chatbot+🤖💬+&color=FFD700" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=80&duration=4000&lines=Simple+Chatbot+🤖💬+&color=FFD700" />
 </h1>
 
 This is a simple chatbot built using Python and Tkinter for the graphical user interface (GUI). The chatbot can respond to basic conversational queries and provides responses based on predefined logic.
